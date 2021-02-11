@@ -1,4 +1,4 @@
-# Introduction to the Tidyverse
+## Introduction to the Tidyverse
 
 
 Data SET 
